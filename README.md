@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site personnel — Abdelmadjid Menad
 
 Next.js 16 · React 19 · TypeScript — site bilingue (FR/EN), sans base de données ni variable d'environnement.
@@ -45,3 +46,6 @@ vercel --prod # production
 ```
 
 Chaque `git push` sur `main` redéploie ensuite automatiquement.
+=======
+# portfolio
+>>>>>>> 95f7900e82feda51f4df48d88e1dc97671e0ef48
